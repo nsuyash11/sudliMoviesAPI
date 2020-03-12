@@ -1,0 +1,20 @@
+{
+  "name": "sudli",
+  "version": "1.0.0",
+  "description": "Movies Catalog",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SuyashNa",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.0",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.4"
+  }
+}

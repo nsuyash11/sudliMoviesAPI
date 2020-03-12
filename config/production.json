@@ -1,0 +1,7 @@
+{
+    "name" : "Sudli Movies Server - Production",
+    "environment" : "production",
+    "mail" : {
+        "host" : "prod-mail-server"
+    }
+}
